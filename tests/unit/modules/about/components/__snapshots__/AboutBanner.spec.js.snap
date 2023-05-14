@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutBannerComponent should match with snapshot 1`] = `
+<div class="row">
+  <div class="column">
+    <ul class="breadcrumb">
+      <li>
+        <router-link to="/" class="navigation-link">INICIO</router-link>
+      </li>
+      <li>ACERCA DE</li>
+    </ul>
+    <h3> La red social para la prevención del riesgo y la búsqueda de personas desaparecidas. </h3>
+  </div>
+  <div class="column column-two"><img src=""></div>
+</div>
+`;

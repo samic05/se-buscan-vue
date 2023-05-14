@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InformationCardContainerComponent should match with snapshot 1`] = `
+<div class="info">
+  <h2 class="title">¿Por qué Se Buscan es importante?</h2>
+</div>
+<div class="card-container">
+  <div class="card"><img src="" class="avatar" alt="Avatar">
+    <div class="container">
+      <h4><b>Red Social</b></h4>
+      <p>Para la comunidad de desaparecidos en el mundo. Sus familiares o amigos podrán vincularse todas las entidades involucradas en la problemática de desaparición. SE BUSCAN será el nodo mundial de información dedesaparecidos.</p>
+    </div>
+  </div>
+</div>
+`;
